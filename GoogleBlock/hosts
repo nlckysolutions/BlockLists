@@ -1,0 +1,30 @@
+# Garbage
+
+0.0.0.0 i.ytimg.com
+0.0.0.0 ccp-lh.googleusercontent.com
+0.0.0.0 gstatic.com
+0.0.0.0 storage.googleapis.com
+0.0.0.0 instantmessaging-pa.googleapis.com
+0.0.0.0 eligibility-panelresearch.googlevideo.com
+0.0.0.0 lycraservice-pa.googleapis.com
+0.0.0.0 home-devices.googleapis.com
+0.0.0.0 signaler-pa.clients6.google.com
+
+0.0.0.0 geller-pa.googleapis.com
+0.0.0.0 assistant-s3-pa.googleapis.com
+
+0.0.0.0 clients3.google.com
+0.0.0.0 lh3.googleusercontent.com
+0.0.0.0 www.gstatic.com
+
+# Google Play
+
+0.0.0.0 play.googleapis.com
+0.0.0.0 play.google.com
+
+
+# We do not block more than this. 
+# Keep connectivitycheck.gstatic.com working so devices think they are connected.
+# Updated November 30th 2025
+
+# (c) 2025 NlckySolutions
